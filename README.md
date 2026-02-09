@@ -110,10 +110,10 @@ This project reflects my interest in **understanding the full stack from hardwar
 
 > I’ll fill these in later.
 
-- **Email:** _[email here]_  
-- **LinkedIn:** _[LinkedIn here]_  
-- **Portfolio / Website:** _[site here]_  
-- **Other:** _[X/Twitter, blog, etc. here]_
+- **Email:** [_bobrossrtx@gmail.com_](mailto:bobrossrtx@gmail.com)  
+- **LinkedIn:** _[Will Be Added]_  
+- **Portfolio / Website:** _[WIP]_  
+- **Other:** _[X/Twitter](https://x.com/bobrossrtx)_, _[blog, etc. here]_
 
 ---
 
