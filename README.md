@@ -1,4 +1,4 @@
-# Hey, I'm Bob 👋
+# Hey, I'm Owen 👋
 
 I’m a self‑taught programmer with ~5 years of experience and a T‑Level IT student from the UK.  
 I split my time between **low‑level systems programming** (kernels, VMs, custom languages) and **full‑stack web development**.
